@@ -1,0 +1,4 @@
+#Encrypted By xNot_Found
+#Github : https://github.com/hatakecnk/
+import zlib, base64
+exec(zlib.decompress(base64.b64decode("eJxFj8FqwzAMhu96CkEPsVmbXnYabNBDaS+DwY5jFOE4q2hsC9thDWPvPic13UESkn59klavNKL/IiFGM15gNefRmtBZTDzQ+UIeD4S7t92mGLCTEDNmdnaNIa0xTcVF8l1w0MfglhZWWRqsFaS0FMOYAUAi+4yq2V/JyWCfcJs6Q7HbJtPK1GiQ6dTzYPG5UL9P7GXMqvl4+MR3E1kyvmARzbx2oatHfdtb5kxwMo/W7TWFGlUl6/sNM/VI5c0C/fk1jW77EB3lf6W9clYa/gAlGWMV")))
